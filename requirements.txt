@@ -3,5 +3,3 @@ streamlit
 plotly
 numpy
 pandas
-# Python version
---python-version 3.11
